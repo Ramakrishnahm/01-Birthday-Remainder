@@ -15,7 +15,7 @@ function App(){
         type = 'buttton'
         className = 'btn btn-block'
         onClick = {() =>setPeople([])}>
-          clear all
+          clear all data
         </button>
 
       </section>
